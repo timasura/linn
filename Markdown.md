@@ -45,4 +45,18 @@ Thank `You` . Please `Call` Me `Coder`
 
 
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+
+
+####  https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
+
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
+
+
+
+
+
+
+[![baidu]](http://baidu.com)  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
+
         
