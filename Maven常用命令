@@ -1,0 +1,6 @@
+1.创建maven项目
+2.mvn compile：编译工程
+3.mvn package：编译并打包
+4.mvn install：打包并安装到本地
+5.mvn deploy：打包并安装到远程仓库
+6.mvn clean：删除target目录
